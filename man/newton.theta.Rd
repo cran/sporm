@@ -56,7 +56,7 @@ Zhong Guan <zguan@iusb.edu>
 \examples{
 theta<-2
 u<-runif(30)
-y<-u/(u+(theta-1)*u)
+y<-u/(theta-(theta-1)*u)
 newton.theta(y)
 }
 % Add one or more standard keywords, see file 'KEYWORDS' in the

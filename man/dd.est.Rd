@@ -29,7 +29,7 @@ empirical likelihood approach to two-sample proportional odds model and
 its goodness-of-fit", Journal of 
 Nonparametric Statistics, to appear.
 
-D.~M. Dabrowska and K.~A. Doksum (1988),  Estimation and testing in a two-sample
+D. M. Dabrowska and K. A. Doksum (1988),  Estimation and testing in a two-sample
   generalized odds-rate model, J. Amer. Statist. Assoc. 83  pp.
   744--749.
   }
