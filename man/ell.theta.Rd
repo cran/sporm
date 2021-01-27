@@ -1,5 +1,5 @@
-\name{Ell.Theta}
-\alias{Ell.Theta}
+\name{ell.theta}
+\alias{ell.theta}
 %- Also NEED an '\alias' for EACH other topic documented here.
 \title{
 Profile loglikelihood of theta.
@@ -10,7 +10,7 @@ Calculates the profile loglikelihood \eqn{\ell(\theta)}{l(\theta)} on interval
 estimate \eqn{\hat\theta}{\theta-hat}
 }
 \usage{
-Ell.Theta(x, y, theta.hat, p.hat, theta1, theta2, n.theta = 40, 
+ell.theta(x, y, theta.hat, p.hat, theta1, theta2, n.theta = 40, 
     tol = 1e-07, maxit = 500)
 }
 %- maybe also 'usage' for other objects documented here.
@@ -57,17 +57,14 @@ Nonparametric Statistics, to appear.
 \author{
 Zhong Guan <zguan@iusb.edu>
 }
-\note{
-%%  ~~further notes~~
-}
+
 
 %% ~Make other sections like Warning with \section{Warning }{....} ~
 
 \seealso{
 \code{\link{elltheta}}, \code{\link{mrle.sporm}}.
 }
-\examples{
-}
+
 % Add one or more standard keywords, see file 'KEYWORDS' in the
 % R documentation directory.
 %\keyword{ ~kwd1 }

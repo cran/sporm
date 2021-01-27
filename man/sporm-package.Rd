@@ -50,8 +50,5 @@ its goodness-of-fit", Journal of
 Nonparametric Statistics, to appear.
 }
 \keyword{ package }
-\seealso{
-}
-\examples{
-}
+
 

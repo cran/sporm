@@ -25,9 +25,7 @@ the value of the proportinality parameter \eqn{\theta}{\theta}
 mixture proportion \eqn{\lambda=m/N}{\lambda=m/N}
 }
 }
-\details{
-%%  ~~ If necessary, more details than the description above ~~
-}
+
 \value{
 Returns the value of \eqn{V_\theta(t)}{V_\theta(t)}.
 }
@@ -40,17 +38,10 @@ Nonparametric Statistics, to appear.
 \author{
 Zhong Guan <zguan@iusb.edu>
 }
-\note{
-%%  ~~further notes~~
-}
+
 
 %% ~Make other sections like Warning with \section{Warning }{....} ~
 
-\seealso{
-%% ~~objects to See Also as \code{\link{help}}, ~~~
-}
-\examples{
-}
 % Add one or more standard keywords, see file 'KEYWORDS' in the
 % R documentation directory.
 %\keyword{ ~kwd1 }

@@ -44,9 +44,7 @@ Nonparametric Statistics, to appear.
 \author{
 Zhong Guan <zguan@iusb.edu>
 }
-\note{
-%%  ~~further notes~~
-}
+
 
 %% ~Make other sections like Warning with \section{Warning }{....} ~
 

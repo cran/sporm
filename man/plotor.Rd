@@ -23,13 +23,7 @@ other arguments for \code{\link{plot}}.
 \details{
 See the reference below.
 }
-\value{
-%%  ~Describe the value returned
-%%  If it is a LIST, use
-%%  \item{comp1 }{Description of 'comp1'}
-%%  \item{comp2 }{Description of 'comp2'}
-%% ...
-}
+
 \references{
 Zhong Guan and Cheng Peng (2011), "A rank-based 
 empirical likelihood approach to two-sample proportional odds model and 
@@ -39,15 +33,9 @@ Nonparametric Statistics, to appear.
 \author{
 Zhong Guan <zguan@iusb.edu>
 }
-\note{
-%%  ~~further notes~~
-}
 
 %% ~Make other sections like Warning with \section{Warning }{....} ~
 
-\seealso{
-%% ~~objects to See Also as \code{\link{help}}, ~~~
-}
 \examples{
 # Use radar tube life data
 z<-RadarTube$Days

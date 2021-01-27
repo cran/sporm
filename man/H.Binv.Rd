@@ -45,14 +45,11 @@ Nonparametric Statistics, to appear.
 \author{
 Zhong Guan <zguan@iusb.edu>
 }
-\note{
-%%  ~~further notes~~
-}
 
 %% ~Make other sections like Warning with \section{Warning }{....} ~
 
 \seealso{
-\code{\link{test.theta}}, \code{\link{elltheta}}, \code{\link{Ell.Theta}}. 
+\code{\link{test.theta}}, \code{\link{elltheta}}, \code{\link{ell.theta}}. 
 }
 % Add one or more standard keywords, see file 'KEYWORDS' in the
 % R documentation directory.

@@ -1,4 +1,4 @@
-Ell.Theta <-
+ell.theta <-
 function(x, y, theta.hat, p.hat, theta1, theta2, n.theta=40, tol=1e-7, maxit=500){
     m<-length(x)
     n<-length(y)

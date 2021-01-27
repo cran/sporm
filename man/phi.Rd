@@ -29,13 +29,7 @@ Returns approximation of probability masses \eqn{p}{p}= phi(N, theta, lambda)/N
 of the discretized baseline distribution
 \eqn{F}{F}.
 }
-\value{
-%%  ~Describe the value returned
-%%  If it is a LIST, use
-%%  \item{comp1 }{Description of 'comp1'}
-%%  \item{comp2 }{Description of 'comp2'}
-%% ...
-}
+
 \references{
 Zhong Guan and Cheng Peng (2011), "A rank-based 
 empirical likelihood approach to two-sample proportional odds model and 
@@ -45,9 +39,7 @@ Nonparametric Statistics, to appear.
 \author{
 Zhong Guan <zguan@iusb.edu>
 }
-\note{
-%%  ~~further notes~~
-}
+
 
 %% ~Make other sections like Warning with \section{Warning }{....} ~
 

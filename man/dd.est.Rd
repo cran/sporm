@@ -36,15 +36,10 @@ D. M. Dabrowska and K. A. Doksum (1988),  Estimation and testing in a two-sample
 \author{
 Zhong Guan <zguan@iusb.edu>
 }
-\note{
-%%  ~~further notes~~
-}
+
 
 %% ~Make other sections like Warning with \section{Warning }{....} ~
 
-\seealso{
-%% ~~objects to See Also as \code{\link{help}}, ~~~
-}
 \examples{
 # Radar tube life data
 z<-RadarTube$Days

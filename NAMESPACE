@@ -1,5 +1,3 @@
-# Default NAMESPACE created by R
-# Remove the previous line if you edit this file
-
-# Export all names
-exportPattern(".")
+importFrom("stats", "ecdf", "qchisq", "quantile", "runif")
+             
+export(confid.int.theta, dd.est, ell.theta, elltheta, grad.hessinv,H.Binv, ks.sporm, ks.stat, mrle.sporm, newton.theta, phi,plotor, test.theta, V.theta)

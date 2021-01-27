@@ -57,7 +57,7 @@ Zhong Guan <zguan@iusb.edu>
 %% ~Make other sections like Warning with \section{Warning }{....} ~
 
 \seealso{
-\code{\link{Ell.Theta}}, \code{\link{mrle.sporm}}.
+\code{\link{ell.theta}}, \code{\link{mrle.sporm}}.
 }
 \examples{
 }
